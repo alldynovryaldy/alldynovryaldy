@@ -4,7 +4,7 @@ Hi 👋 My name is Alldy Novryaldy
 Web Developer
 -------------
 
-I am a graduate of the Informatics Engineering Study Program, Ahmad Dahlan University. I am currently working in a government agency as a programmer since 2019. Have experience in developing websites for more than 2 years. Familiar with PHP frameworks such as codeigniter, laravel, and also Library Javascript such as Jquery, understand SQL database concepts such as MySQL, Rest Api for app integration.
+I am currently working in a government agency as a programmer since 2019. Have experience in developing websites for more than 2 years. Familiar with PHP frameworks such as codeigniter, laravel, and also Library Javascript such as Jquery, understand SQL database concepts such as MySQL, Rest Api for app integration.
 
 * 🖥️  See my portfolio at [Portfolio](http://alldynovryaldy.github.io)
 * ✉️  You can contact me at [alldybmw@gmail.com](mailto:alldybmw@gmail.com)
